@@ -1,7 +1,13 @@
 KeyTouch
 ========
 
-KeyTouch is a Free IME (Input Method Editor) written for Microsoft Windows. Though it’s originally created for Sinhala Script, You can edit key layouts by creating xml files for any language or script.
+KeyTouch is a Free IME (Input Method Editor) written for Microsoft Windows. Though it was originally created for Sinhala Script, You can edit key layouts by creating xml files for any language or script.
+
+
+Download
+========
+
+https://github.com/sdasun/KeyTouch/blob/master/Binaries/KeyTouch-1.1.exe?raw=true
 
 System Requirements
 ===================
@@ -20,7 +26,7 @@ Windows 2003 and 2008 Server (all editions, .net framework required)
 Installable Keyboard Layouts – (for Keyboard Layout Designers)
 ===============================================================
 
-keyTouch has ability to install a new Unicode keyboard layout via an XML text file.
+KeyTouch has ability to install a new Unicode keyboard layout xml file.
 
 XML DTD
 XML keyboards must follow the XML DTD (Document Type Definition) below:

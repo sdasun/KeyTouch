@@ -1,0 +1,36 @@
+﻿<!ELEMENT action ( keySequence*,keySequenceRng* ) >
+
+<!ELEMENT altGrKeyMap ( key* ) >
+
+<!ELEMENT capsAndShiftKeyMap ( key* ) >
+
+<!ELEMENT capsKeyMap (key*) >
+
+<!ELEMENT defaultKeyMap (key*) >
+
+<!ELEMENT key EMPTY >
+<!ATTLIST key code NMTOKEN #REQUIRED >
+<!ATTLIST key output CDATA #REQUIRED >
+<!ATTLIST key state NMTOKEN #IMPLIED >
+
+<!ELEMENT keySequence EMPTY >
+<!ATTLIST keySequence input NMTOKEN #REQUIRED >
+<!ATTLIST keySequence newState NMTOKEN #IMPLIED >
+<!ATTLIST keySequence output CDATA #REQUIRED >
+<!ATTLIST keySequence state NMTOKEN #REQUIRED >
+
+<!ELEMENT keySequenceRng EMPTY >
+<!ATTLIST keySequenceRng end NMTOKEN #REQUIRED >
+<!ATTLIST keySequenceRng newState NMTOKEN #IMPLIED >
+<!ATTLIST keySequenceRng output CDATA #REQUIRED >
+<!ATTLIST keySequenceRng start NMTOKEN #REQUIRED >
+<!ATTLIST keySequenceRng state NMTOKEN #REQUIRED >
+
+
+<!ELEMENT layout (defaultKeyMap, shiftKeyMap, capsKeyMap, capsAndShiftKeyMap, altGrKeyMap, action ) >
+<!ATTLIST layout createdby CDATA #REQUIRED >
+<!ATTLIST layout info CDATA #REQUIRED >
+<!ATTLIST layout name NMTOKEN #REQUIRED >
+<!ATTLIST layout version NMTOKEN #REQUIRED >
+
+<!ELEMENT shiftKeyMap ( key* ) >

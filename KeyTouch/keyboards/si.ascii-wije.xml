@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--ZWNJ=‌--> <!--200C-->
+<!--ZWJ =‍--> <!--200D-->
+<layout name="Sinhala-Wije Ascii" version="1.0" info="සම්මත විජේසේකර යතුරු පොවරුව - Standard Sinhala Keyboard Layout" createdby="Sigma Digital">
+  <defaultKeyMap>
+    <key code="&#x0030;"  output = "0" />‍
+    <key code="&#x0031;"  output = "1" />
+    <key code="&#x0032;"  output = "2" />
+    <key code="&#x0033;"  output = "3" />
+    <key code="&#x0034;"  output = "4" />
+    <key code="&#x0035;"  output = "5" />
+    <key code="&#x0036;"  output = "6" />
+    <key code="&#x0037;"  output = "7" />
+    <key code="&#x0038;"  output = "8" />
+    <key code="&#x0039;"  output = "9" />
+    <key code="&#x0041;"  output = "a" />
+    <key code="&#x0042;"  output = "b"/>
+    <key code="&#x0043;"  output = "c" state="ja"/>
+    <key code="&#x0044;"  output = "d" />
+    <key code="&#x0045;"  output = "e" />
+    <key code="&#x0046;"  output = "f"/>
+    <key code="&#x0047;"  output = "g"  state="ta"/>
+    <key code="&#x0048;"  output = "h" state="ya"/>
+    <key code="&#x0049;"  output = "i" state="sa"/>
+    <key code="&#x004B;"  output = "j" state="na"/>
+    <key code="&#x004C;"  output = "k" state="ka"/>
+    <key code="&#x004A;"  output = "l" state="va"/>
+    <key code="&#x004D;"  output = "m" state="pa"/>
+    <key code="&#x004E;"  output = "n" state="ba"/>
+    <key code="&#x004F;"  output = "o" state="da"/>
+    <key code="&#x0050;"  output = "p" state="ca"/>
+    <key code="&#x0051;"  output = "q" />
+    <key code="&#x0052;"  output = "r" state="ra"/>
+    <key code="&#x0053;"  output = "s" />
+    <key code="&#x0054;"  output = "t" state="e" />
+    <key code="&#x0055;"  output = "u" state="ma"/>
+    <key code="&#x0056;"  output = "v" state="dda" />
+    <key code="&#x0057;"  output = "w" state="a" />
+    <key code="&#x0058;"  output = "x" />
+    <key code="&#x0059;"  output = "y" state="ha"/>
+    <key code="&#x005A;"  output = "'" />
+    <key code="&#x00BA;" output = ";" state="ta"/>
+    <key code="&#x00BB;" output = "=" />
+    <key code="&#x00BC;" output = "," state="la" />
+    <key code="&#x00BD;" output = "-" />
+    <key code="&#x00BE;" output = "." state="ga"/>
+    <key code="&#x00BF;" output = "/" />
+    <key code="&#x00C0;" output = "%" />
+    <key code="&#x00DB;" output = "[" state="nya"/>
+    <key code="&#x00DC;" output = "_" />
+    <key code="&#x00DD;" output = ";" />
+    <key code="&#x00DE;" output = "." />
+    <key code="&#x00DF;" output = "!" />
+  </defaultKeyMap>
+  <shiftKeyMap>
+    <key code="&#x0030;"  output = "&amp;" />
+    <key code="&#x0031;"  output = "`" />
+    <key code="&#x0032;"  output = "@" />
+    <key code="&#x0033;"  output = "#" />
+    <key code="&#x0034;"  output = "$" />
+    <key code="&#x0035;"  output = "%" />
+    <key code="&#x0036;"  output = "^" />
+    <key code="&#x0037;"  output = "&amp;"/>
+    <key code="&#x0038;"  output = "*" />
+    <key code="&#x0039;"  output = "^" />
+    <key code="&#x0041;"  output = "!" />
+    <key code="&#x0042;"  output = "B" />
+    <key code="&#x0043;"  output = "CO" state="jha"/>
+    <key code="&#x0044;"  output = "D"  state="_vr"/>
+    <key code="&#x0045;"  output = "E" />
+    <key code="&#x0046;"  output = "*" state="fa"/>
+    <key code="&#x0047;"  output = "G" state="tha"/>
+    <key code="&#x0048;"  output = "H" />
+    <key code="&#x0049;"  output = "I" state="ssa" />
+    <key code="&#x004A;"  output = "¿" />
+    <key code="&#x004B;"  output = "K" state="nna" />
+    <key code="&#x004C;"  output = "L" state="kha" />
+    <key code="&#x004D;"  output = "M" state="pha" />
+    <key code="&#x004E;"  output = "N" state="bha" />
+    <key code="&#x004F;"  output = "O" state="dha" />
+    <key code="&#x0050;"  output = "P" state="cha" />
+    <key code="&#x0051;"  output = "Q" />
+    <key code="&#x0052;"  output = "R" state="vr"/>
+    <key code="&#x0053;"  output = "S" />
+    <key code="&#x0054;"  output = "T" state="o"/>
+    <key code="&#x0055;"  output = "U" />
+    <key code="&#x0056;"  output = "V" state="dha" />
+    <key code="&#x0057;"  output = "W" state="u"/>
+    <key code="&#x0058;"  output = "X" />
+    <key code="&#x0059;"  output = "Y" state="ssa"  />
+    <key code="&#x005A;"  output = "&#x0022;" />
+    <key code="&#x00BA;" output = ":" state="tha"  />
+    <key code="&#x00BB;" output = "+" />
+    <key code="&#x00BC;" output = "&#x003C;" state="lha" />
+    <key code="&#x00BD;" output = "_" />
+    <key code="&#x00BE;" output = "&#x003E;" state="gha" />
+    <key code="&#x00BF;" output = "?" />
+    <key code="&#x00C0;" output = "_" />
+    <key code="&#x00DB;" output = "{" state="jnya"  />
+    <key code="&#x00DC;" output = "‍" />
+    <key code="&#x00DD;" output = ":" />
+    <key code="&#x00DE;" output = "," />
+    <key code="&#x00DF;" output = "§" />
+  </shiftKeyMap>
+  <capsKeyMap>
+    <key code="&#x0030;"  output = "0" />
+    <key code="&#x0031;"  output = "1" />
+    <key code="&#x0032;"  output = "2" />
+    <key code="&#x0033;"  output = "3" />
+    <key code="&#x0034;"  output = "4" />
+    <key code="&#x0035;"  output = "5" />
+    <key code="&#x0036;"  output = "6" />
+    <key code="&#x0037;"  output = "7" />
+    <key code="&#x0038;"  output = "8" />
+    <key code="&#x0039;"  output = "9" />
+    <key code="&#x0041;"  output = "a" />
+    <key code="&#x0042;"  output = "b" />
+    <key code="&#x0043;"  output = "c" />
+    <key code="&#x0044;"  output = "d" />
+    <key code="&#x0045;"  output = "e" />
+    <key code="&#x0046;"  output = "f" />
+    <key code="&#x0047;"  output = "g" />
+    <key code="&#x0048;"  output = "h" />
+    <key code="&#x0049;"  output = "i" />
+    <key code="&#x004A;"  output = "j" />
+    <key code="&#x004B;"  output = "k" />
+    <key code="&#x004C;"  output = "l" />
+    <key code="&#x004D;"  output = "m" />
+    <key code="&#x004E;"  output = "n" />
+    <key code="&#x004F;"  output = "o" />
+    <key code="&#x0050;"  output = "p" />
+    <key code="&#x0051;"  output = "q" />
+    <key code="&#x0052;"  output = "r" />
+    <key code="&#x0053;"  output = "s" />
+    <key code="&#x0054;"  output = "t" />
+    <key code="&#x0055;"  output = "u" />
+    <key code="&#x0056;"  output = "v" />
+    <key code="&#x0057;"  output = "w" />
+    <key code="&#x0058;"  output = "x" />
+    <key code="&#x0059;"  output = "y" />
+    <key code="&#x005A;"  output = "z" />
+    <key code="&#x00BA;" output = ";" />
+    <key code="&#x00BB;" output = "=" />
+    <key code="&#x00BC;" output = "," />
+    <key code="&#x00BD;" output = "-" />
+    <key code="&#x00BE;" output = "." />
+    <key code="&#x00BF;" output = "/" />
+    <key code="&#x00C0;" output = "`" />
+    <key code="&#x00DB;" output = "[" />
+    <key code="&#x00DC;" output = "\" />
+    <key code="&#x00DD;" output = "]" />
+    <key code="&#x00DE;" output = "'" />
+    <key code="&#x00DF;" output = "!" />
+  </capsKeyMap>
+  <capsAndShiftKeyMap>
+    <key code="&#x0030;"  output = "&amp;" />
+    <key code="&#x0031;"  output = "`" />
+    <key code="&#x0032;"  output = "@" />
+    <key code="&#x0033;"  output = "#" />
+    <key code="&#x0034;"  output = "$" />
+    <key code="&#x0035;"  output = "%" />
+    <key code="&#x0036;"  output = "^" />
+    <key code="&#x0037;"  output = "&amp;"/>
+    <key code="&#x0038;"  output = "*" />
+    <key code="&#x0039;"  output = "^" />
+    <key code="&#x0041;"  output = "!" />
+    <key code="&#x0042;"  output = "B" />
+    <key code="&#x0043;"  output = "CO" state="jha"/>
+    <key code="&#x0044;"  output = "D"  state="_vr"/>
+    <key code="&#x0045;"  output = "E" />
+    <key code="&#x0046;"  output = "*" state="fa"/>
+    <key code="&#x0047;"  output = "G" state="tha"/>
+    <key code="&#x0048;"  output = "H" />
+    <key code="&#x0049;"  output = "I" state="ssa" />
+    <key code="&#x004A;"  output = "¿" />
+    <key code="&#x004B;"  output = "K" state="nna" />
+    <key code="&#x004C;"  output = "L" state="kha" />
+    <key code="&#x004D;"  output = "M" state="pha" />
+    <key code="&#x004E;"  output = "N" state="bha" />
+    <key code="&#x004F;"  output = "O" state="dha" />
+    <key code="&#x0050;"  output = "P" state="cha" />
+    <key code="&#x0051;"  output = "Q" />
+    <key code="&#x0052;"  output = "R" state="vr"/>
+    <key code="&#x0053;"  output = "S" />
+    <key code="&#x0054;"  output = "T" state="o"/>
+    <key code="&#x0055;"  output = "U" />
+    <key code="&#x0056;"  output = "V" state="dha" />
+    <key code="&#x0057;"  output = "W" state="u"/>
+    <key code="&#x0058;"  output = "X" />
+    <key code="&#x0059;"  output = "Y" state="ssa"  />
+    <key code="&#x005A;"  output = "&#x0022;" />
+    <key code="&#x00BA;" output = ":" state="tha"  />
+    <key code="&#x00BB;" output = "+" />
+    <key code="&#x00BC;" output = "&#x003C;" state="lha" />
+    <key code="&#x00BD;" output = "_" />
+    <key code="&#x00BE;" output = "&#x003E;" state="gha" />
+    <key code="&#x00BF;" output = "?" />
+    <key code="&#x00C0;" output = "_" />
+    <key code="&#x00DB;" output = "{" state="jnya"  />
+    <key code="&#x00DC;" output = "‍" />
+    <key code="&#x00DD;" output = ":" />
+    <key code="&#x00DE;" output = "," />
+    <key code="&#x00DF;" output = "§" />
+  </capsAndShiftKeyMap>
+  <altGrKeyMap>
+    <key code="&#x004F;"  output = "|" />
+    <key code="&#x00BE;"  output = "`." />
+    <key code="&#x0056;"  output = "`v" />
+    <key code="&#x0043;"  output = "" />
+
+    <key code="&#x00BC;"  output = "Ì" state="vl"/>
+    <key code="&#x00DE;" output = "෴" />
+  </altGrKeyMap>
+  <action>
+    <keySequence state="ma" input="s"  output="{BS}us" />
+  </action>
+</layout>

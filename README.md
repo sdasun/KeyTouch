@@ -79,3 +79,11 @@ A keyboard layout description is a standard XML file, and also follows the XML s
 	info: Detailed information about keylayout. 
 		This wll be appear under Detail on configuration page.
 	createdby: Creater of the keyboard layout.
+	
+
+License
+=======
+
+Apache PushSharp Copyright 2012 The Apache Software Foundation
+
+This product includes software developed at The Apache Software Foundation (http://www.apache.org/).
